@@ -15,5 +15,3 @@ create a branch dec
 3
 2
 master
-no-ff
-555
