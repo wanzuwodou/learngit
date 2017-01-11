@@ -16,6 +16,3 @@ create a branch dec
 2
 master
 no-ff333
-
-
-
